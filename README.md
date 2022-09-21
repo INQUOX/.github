@@ -1,2 +1,2 @@
-# Onalog
+## Onalog (not Inc.)
 Organization README
