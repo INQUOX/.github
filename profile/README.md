@@ -6,4 +6,4 @@
 
 By Razenxc, Kra1dex
 
-Logo designer Flo1rez-
+Designer Flo1rez-
