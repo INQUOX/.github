@@ -4,6 +4,4 @@
 
 *I hope something will work out*
 
-By Razenxc, Kra1dex
-
-Designer Flo1rez-
+By Razenxc, Kra1dex & maybe Flo1rez-
