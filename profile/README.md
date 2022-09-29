@@ -1,4 +1,4 @@
-![text-logo-low](https://user-images.githubusercontent.com/84779107/192454211-3f33ecbe-8779-4d51-89e5-1fa470558207.png)
+![text-logo-medium1](https://user-images.githubusercontent.com/84779107/192975490-17c5e415-8940-413c-a2ae-df5252d903a8.png)
 
 **We want to make an application with free messages, calls and other communications between people**
 
