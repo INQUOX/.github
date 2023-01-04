@@ -5,3 +5,5 @@
 *I hope something will work out*
 
 By Razenxc, Kra1dex, Glebweider, & maybe Flo1rez-
+
+We closed
